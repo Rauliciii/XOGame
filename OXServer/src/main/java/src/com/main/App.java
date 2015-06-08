@@ -7,7 +7,7 @@ import src.com.model.GameHandleImpl;
 
 
 public class App {
-	static int DIM = 10;
+	static int DIM = 3;
 	static int K = 3;
 
 	
